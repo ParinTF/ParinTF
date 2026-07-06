@@ -1,4 +1,4 @@
-### Hi, I'm [ชื่อคุณ] 👋
+### Hi, I'm Parinthorn Sutthikhun 👋
 Full-stack developer building projects end-to-end — from data model to deployed UI.
 
 **Currently building:**
