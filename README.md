@@ -16,7 +16,7 @@ I mostly work in the **.NET / Go / TypeScript** world, with MongoDB or PostgreSQ
 - 🔭 Currently building **Bonsai** and **Curio** (see below)
 - 🌱 Always tinkering with new backend architectures and clean data models
 - 💬 Ask me about C#, Go, React, or database design
-- 📫 Reach me at **[your-email@example.com]** or **[LinkedIn](https://linkedin.com/in/your-profile)**
+- 📫 Reach me at **[xibomivi@gmail.com]** or **[LinkedIn](https://www.linkedin.com/in/parinthorn-sutthikhun-a402541b4 )**
 
 ---
 
@@ -51,7 +51,7 @@ I mostly work in the **.NET / Go / TypeScript** world, with MongoDB or PostgreSQ
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
       <p align="center">
-        <a href="https://github.com/<your-username>/Bonsai">
+        <a href="https://github.com/ParinTF/Bonsai">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=Bonsai&theme=transparent&hide_border=true" />
         </a>
       </p>
@@ -65,7 +65,7 @@ I mostly work in the **.NET / Go / TypeScript** world, with MongoDB or PostgreSQ
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/<your-username>/curio">
+        <a href="https://github.com/ParinTF/curio">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=curio&theme=transparent&hide_border=true" />
         </a>
       </p>
