@@ -71,17 +71,6 @@ I mostly work in the **.NET / Go / TypeScript** world, with MongoDB or PostgreSQ
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ParinTF&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParinTF&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
 ### 📫 Connect with Me
 
 <div align="center">
