@@ -66,7 +66,7 @@ I mostly work in the **.NET / Go / TypeScript** world, with MongoDB or PostgreSQ
       </p>
       <p align="center">
         <a href="https://github.com/ParinTF/curio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=curio&theme=transparent&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParinTF&repo=curio&theme=transparent&hide_border=true" />
         </a>
       </p>
       <p align="center">
