@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA8E8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Parinthorn+Sutthikhun+%F0%9F%91%8B;Full-Stack+Developer;I+build+projects+end-to-end;Data+Model+%E2%86%92+API+%E2%86%92+Deployed+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA8E8&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Parinthorn+Sutthikhun+%F0%9F%91%8B;Full-Stack+Developer;Data+Model+%E2%86%92+API+%E2%86%92+Deployed+UI" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,7 +16,7 @@ I mostly work in the **.NET / Go / TypeScript** world, with MongoDB or PostgreSQ
 - 🔭 Currently building **Bonsai** and **Curio** (see below)
 - 🌱 Always tinkering with new backend architectures and clean data models
 - 💬 Ask me about C#, Go, React, or database design
-- 📫 Reach me at **[xibomivi@gmail.com]** or **[LinkedIn](https://www.linkedin.com/in/parinthorn-sutthikhun-a402541b4 )**
+- 📫 Reach me at **xibomivi@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/parinthorn-sutthikhun-a402541b4)**
 
 ---
 
@@ -51,9 +51,7 @@ I mostly work in the **.NET / Go / TypeScript** world, with MongoDB or PostgreSQ
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
       <p align="center">
-        <a href="https://github.com/ParinTF/Bonsai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=Bonsai&theme=transparent&hide_border=true" />
-        </a>
+        <a href="https://github.com/ParinTF/Bonsai">🔗 View Repo</a>
       </p>
     </td>
     <td width="50%">
@@ -63,11 +61,6 @@ I mostly work in the **.NET / Go / TypeScript** world, with MongoDB or PostgreSQ
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/ParinTF/curio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParinTF&repo=curio&theme=transparent&hide_border=true" />
-        </a>
       </p>
       <p align="center">
         <a href="https://curio-umber.vercel.app">🔗 Live Demo</a>
@@ -82,10 +75,8 @@ I mostly work in the **.NET / Go / TypeScript** world, with MongoDB or PostgreSQ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=transparent&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=transparent&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ParinTF&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParinTF&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -95,12 +86,12 @@ I mostly work in the **.NET / Go / TypeScript** world, with MongoDB or PostgreSQ
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-username>)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xibomivi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parinthorn-sutthikhun-a402541b4)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParinTF)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=<your-username>&style=flat-square&color=2EA8E8" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ParinTF&style=flat-square&color=2EA8E8" alt="Profile views" />
 </div>
