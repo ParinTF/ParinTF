@@ -79,8 +79,4 @@ I mostly work in the **.NET / Go / TypeScript** world, with MongoDB or PostgreSQ
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parinthorn-sutthikhun-a402541b4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParinTF)
 
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParinTF&style=flat-square&color=2EA8E8" alt="Profile views" />
-</div>
