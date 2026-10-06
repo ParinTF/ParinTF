@@ -32,34 +32,30 @@ I mostly work in the **.NET / Go / TypeScript** world, with MongoDB or PostgreSQ
 
 ### 🚀 Currently Building
 
+<div align="center">
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🌱 Bonsai</h3>
-      <p align="center"><i>Hierarchical goal-tracking app</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/ParinTF/Bonsai">🔗 View Repo</a>
-      </p>
+    <td align="center" valign="top" width="50%">
+      <h3>🌱 Bonsai</h3>
+      <p>Hierarchical goal tracker</p>
+      <img src="https://skillicons.dev/icons?i=dotnet,mongodb,react" height="36" alt="Bonsai stack" />
+      <br /><br />
+      <a href="https://github.com/ParinTF/Bonsai">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center">📄 Curio</h3>
-      <p align="center"><i>Resume builder with live preview</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://curio-umber.vercel.app">🔗 Live Demo</a>
-      </p>
+    <td align="center" valign="top" width="50%">
+      <h3>📄 Curio</h3>
+      <p>Live-preview resume builder</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,go,postgres" height="36" alt="Curio stack" />
+      <br /><br />
+      <a href="https://curio-umber.vercel.app">
+        <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
