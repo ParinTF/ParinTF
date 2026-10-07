@@ -1,70 +1,100 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA8E8&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Parinthorn+Sutthikhun+%F0%9F%91%8B;Full-Stack+Developer;Data+Model+%E2%86%92+API+%E2%86%92+Deployed+UI" alt="Typing SVG" />
-</a>
+<img src="./assets/portfolio-editorial.svg" alt="Parinthorn Sutthkhun — Software Engineer. Ideas become useful software." width="100%" />
+
+<br />
+
+I build things that make everyday life a little easier.<br />
+From the first data model to the final interface.
+
+<br /><br />
+
+[**Explore my portfolio ↗**](https://parinthorn-portfolio.parinwork00.chatgpt.site) &nbsp; · &nbsp; [GitHub projects](https://github.com/ParinTF?tab=repositories) &nbsp; · &nbsp; [Say hello](mailto:xibomivi@gmail.com)
 
 </div>
 
----
+<br />
 
-### 🧑‍💻 About Me
+## Less talk. More building.
 
-Full-stack developer who likes owning a project from **data model → API → deployed UI**.
-I mostly work in the **.NET / Go / TypeScript** world, with MongoDB or PostgreSQL underneath.
+A few projects connecting thoughtful systems with useful experiences.
 
-- 🔭 Currently building **Bonsai** and **Curio** (see below)
-- 🌱 Always tinkering with new backend architectures and clean data models
-- 💬 Ask me about C#, Go, React, or database design
-- 📫 Reach me at **xibomivi@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/parinthorn-sutthikhun-a402541b4)**
-
----
-
-### I code with
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,ts,react,nextjs,mongodb,postgres,docker" alt="My tech stack" />
-</a>
-
-> "Talk is cheap. Show me the code." — Linus Torvalds
-
----
-
-### 🚀 Currently Building
-
-<div align="center">
 <table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3>🌱 Bonsai</h3>
-      <p>Hierarchical goal tracker</p>
-      <img src="https://skillicons.dev/icons?i=dotnet,mongodb,react" height="36" alt="Bonsai stack" />
-      <br /><br />
-      <a href="https://github.com/ParinTF/Bonsai">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
-      </a>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3>📄 Curio</h3>
-      <p>Live-preview resume builder</p>
-      <img src="https://skillicons.dev/icons?i=nextjs,go,postgres" height="36" alt="Curio stack" />
-      <br /><br />
-      <a href="https://curio-umber.vercel.app">
-        <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Bonsai
+**Big goals. Small, steady steps.**
+
+<a href="https://github.com/ParinTF/Bonsai"><img src="https://raw.githubusercontent.com/ParinTF/Bonsai/master/docs/screenshots/goal-graph.png" alt="Bonsai's interactive goal graph" width="100%" /></a>
+
+A hierarchical goal tracker with draggable goal graphs, daily habits, weekly commitments, and progress that rolls up automatically.
+
+**.NET · React · TypeScript · MongoDB**
+
+[Source code ↗](https://github.com/ParinTF/Bonsai) · [Try the demo ↗](https://bonsai-dww.pages.dev)
+
+</td>
+<td width="50%" valign="top">
+
+### Curio
+**Your story. Your next chapter.**
+
+A full-stack resume builder with a live preview, four templates, customizable colors and fonts, PDF export, and public sharing.
+
+- Next.js interface with a real-time preview
+- Go REST API for all data reads and writes
+- PostgreSQL JSONB for flexible resume content
+- Supabase Auth with JWT verification
+
+**Next.js · Go · PostgreSQL · Supabase**
+
+[Source code ↗](https://github.com/ParinTF/Curio) · [Try the demo ↗](https://curio-umber.vercel.app)
+
+</td>
+</tr>
 </table>
-</div>
+
+### NodeHop
+**More destinations. A clearer route.**
+
+SmartRoute, the app in NodeHop, compares travel distances and optimizes multi-stop routes using open data services. Search for places, drop pins, and compare distance and time for up to 50 destinations.
+
+**Next.js · TypeScript · MapLibre · OSRM**
+
+[Explore the source ↗](https://github.com/ParinTF/NodeHop)
+
+<br />
 
 ---
 
-### 📫 Connect with Me
+<div align="center">
+
+### Good software. A human touch.
+
+<img src="https://parinthorn-portfolio.parinwork00.chatgpt.site/portrait.png" alt="Portrait of Parinthorn Sutthkhun" width="130" />
+
+### Hi, I'm Parinthorn.
+**Software Engineer · @ParinTF**
+
+</div>
+
+I'm a full-stack developer who enjoys taking a project from its **data model and API to the interface people use**.
+
+I mostly work with **.NET, Go, and TypeScript**, backed by **MongoDB or PostgreSQL**. I'm interested in clean data models, backend architecture, and making useful products.
+
+### My toolkit
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,ts,react,nextjs,mongodb,postgres,docker&perline=9" alt="C#, .NET, Go, TypeScript, React, Next.js, MongoDB, PostgreSQL, and Docker" />
+</p>
+
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xibomivi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parinthorn-sutthikhun-a402541b4)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParinTF)
+### Let's talk about what we can build.
 
+[Portfolio ↗](https://parinthorn-portfolio.parinwork00.chatgpt.site) &nbsp; · &nbsp; [Email](mailto:xibomivi@gmail.com) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/parinthorn-sutthikhun-a402541b4)
 
+</div>
