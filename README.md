@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/portfolio-mobile.svg" />
-  <img src="./assets/portfolio-editorial.svg" alt="Parinthorn Sutthikhun — Thoughtful code. Useful software." width="100%" />
+  <source media="(max-width: 600px)" srcset="./assets/portfolio-mobile.svg?v=monochrome-1" />
+  <img src="./assets/portfolio-editorial.svg?v=monochrome-1" alt="Parinthorn Sutthikhun — Thoughtful code. Useful software." width="100%" />
 </picture>
 
 <br />
@@ -20,7 +20,7 @@ Clean architecture, considered details, and software that makes everyday life a 
 ### 01 / Vermil Tasks
 
 <a href="https://github.com/ParinTF/vermil-tasks">
-  <img src="./assets/vermil-preview.svg" alt="Vermil Tasks — a modular, local-first Windows app. Illustration of a focused workspace." width="100%" />
+  <img src="./assets/vermil-preview.svg?v=monochrome-1" alt="Vermil Tasks — a modular, local-first Windows app. Illustration of a focused workspace." width="100%" />
 </a>
 
 **Small tools. One quiet workspace.** A local-first Windows app with on-demand modules for tasks, notes, focus, habits, and more. Start empty; switch on only what you need.
