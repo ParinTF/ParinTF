@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="./assets/portfolio-editorial.svg" alt="Parinthorn Sutthkhun — Software Engineer. Ideas become useful software." width="100%" />
+<img src="./assets/portfolio-editorial.svg" alt="Parinthorn Sutthikhun — Software Engineer. Ideas become useful software." width="100%" />
 
 <br />
 
-I build things that make everyday life a little easier.<br />
-From the first data model to the final interface.
+**Engineered from the ground up — clean data models, fast APIs, and sharp interfaces.**
 
 <br /><br />
 
