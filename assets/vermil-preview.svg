@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Vermil Tasks — Modular Local-First Windows App</title>
+  <desc id="desc">One light Windows app for everyday life with 26 on-demand modules, built with Rust and Tauri 2.</desc>
+
+  <!-- Outer frame / subtle backdrop -->
+  <rect width="1200" height="440" rx="24" fill="#ebe6dc"/>
+  <rect x="16" y="16" width="1168" height="408" rx="16" fill="#f4f1ea" stroke="#d8d2c5" stroke-width="1.5"/>
+
+  <!-- Top window bar -->
+  <line x1="16" y1="68" x2="1184" y2="68" stroke="#dfdad0" stroke-width="1"/>
+  <text x="48" y="47" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2.2" fill="#12110f">VERMIL</text>
+  <circle cx="118" cy="42" r="3.5" fill="#ff4a1c"/>
+  <text x="132" y="47" font-family="Arial,sans-serif" font-size="11" fill="#6f6b63">v1.2</text>
+
+  <!-- Navigation views -->
+  <text x="200" y="47" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#6f6b63">HOME</text>
+  <text x="268" y="47" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#12110f">TASKS</text>
+  <rect x="268" y="65" width="46" height="3" fill="#ff4a1c"/>
+  <text x="342" y="47" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#6f6b63">CALENDAR</text>
+  <text x="444" y="47" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#6f6b63">FOCUS</text>
+  <text x="518" y="47" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#6f6b63">EXPENSES</text>
+  <text x="618" y="47" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#6f6b63">HABITS</text>
+  <text x="696" y="47" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#6f6b63">+20 MODULES</text>
+
+  <!-- Right window controls & shortcut pill -->
+  <rect x="935" y="30" width="94" height="24" rx="4" fill="#eae5db" stroke="#d5cfc2" stroke-width="1"/>
+  <text x="982" y="46" text-anchor="middle" font-family="Consolas,monospace" font-size="11" fill="#6f6b63">Ctrl+K</text>
+  <text x="1064" y="47" font-family="Arial,sans-serif" font-size="11" fill="#6f6b63">Settings</text>
+  <line x1="1126" y1="42" x2="1136" y2="42" stroke="#12110f" stroke-width="1.2"/>
+  <rect x="1146" y="37" width="9" height="9" fill="none" stroke="#12110f" stroke-width="1.2"/>
+  <line x1="1166" y1="37" x2="1175" y2="46" stroke="#12110f" stroke-width="1.2"/>
+  <line x1="1175" y1="37" x2="1166" y2="46" stroke="#12110f" stroke-width="1.2"/>
+
+  <!-- Left column: Hero & Stats -->
+  <text x="48" y="114" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.8" fill="#6f6b63">OPEN TASKS · TODAY</text>
+  <text x="48" y="176" font-family="Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="-2" fill="#12110f">Still left</text>
+  <text x="48" y="250" font-family="Georgia,serif" font-size="72" font-weight="700" letter-spacing="-2" fill="#ff4a1c">04</text>
+  <text x="142" y="246" font-family="Arial,sans-serif" font-size="38" font-weight="700" letter-spacing="-1" fill="#12110f">tasks</text>
+
+  <text x="48" y="288" font-family="Arial,sans-serif" font-size="13" fill="#6f6b63">2 due today · 1h 45m focused · 12-day streak</text>
+
+  <!-- Package pills -->
+  <line x1="48" y1="316" x2="430" y2="316" stroke="#dfdad0" stroke-width="1"/>
+  <text x="48" y="342" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#6f6b63">5 ON-DEMAND PACKAGES · ~2 MB INSTALLER</text>
+
+  <rect x="48" y="356" width="64" height="28" rx="4" fill="#12110f"/>
+  <text x="80" y="374" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#f4f1ea">WORK</text>
+
+  <rect x="120" y="356" width="72" height="28" rx="4" fill="#eae5db" stroke="#d5cfc2" stroke-width="1"/>
+  <text x="156" y="374" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#12110f">MONEY</text>
+
+  <rect x="200" y="356" width="58" height="28" rx="4" fill="#eae5db" stroke="#d5cfc2" stroke-width="1"/>
+  <text x="229" y="374" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#12110f">LIFE</text>
+
+  <rect x="266" y="356" width="62" height="28" rx="4" fill="#eae5db" stroke="#d5cfc2" stroke-width="1"/>
+  <text x="297" y="374" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#12110f">PLAN</text>
+
+  <rect x="336" y="356" width="72" height="28" rx="4" fill="#eae5db" stroke="#d5cfc2" stroke-width="1"/>
+  <text x="372" y="374" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#12110f">SMART</text>
+
+  <!-- Vertical divider -->
+  <line x1="468" y1="92" x2="468" y2="396" stroke="#dfdad0" stroke-width="1"/>
+
+  <!-- Right column: Task list & Active Modules -->
+  <text x="504" y="114" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.8" fill="#6f6b63">TODAY'S QUEUE</text>
+  <text x="1148" y="114" text-anchor="end" font-family="Consolas,monospace" font-size="11" fill="#c93410">LOCAL-FIRST · NO CLOUD</text>
+
+  <!-- Task Row 1 -->
+  <rect x="504" y="130" width="644" height="56" rx="6" fill="#faf8f3" stroke="#dfdad0" stroke-width="1"/>
+  <rect x="522" y="149" width="18" height="18" rx="3" fill="none" stroke="#ff4a1c" stroke-width="2"/>
+  <text x="554" y="156" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#12110f">Ship v1.2 Windows installer &amp; signed update feed</text>
+  <text x="554" y="174" font-family="Arial,sans-serif" font-size="12" fill="#6f6b63">Due 17:00 · Linked note: Release checklist · Pomodoro 25m</text>
+  <rect x="1062" y="145" width="70" height="24" rx="4" fill="#ff4a1c"/>
+  <text x="1097" y="161" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="0.8" fill="#12110f">TODAY</text>
+
+  <!-- Task Row 2 -->
+  <rect x="504" y="196" width="644" height="56" rx="6" fill="#faf8f3" stroke="#dfdad0" stroke-width="1"/>
+  <rect x="522" y="215" width="18" height="18" rx="3" fill="none" stroke="#12110f" stroke-width="1.6"/>
+  <text x="554" y="222" font-family="Arial,sans-serif" font-size="15" font-weight="600" fill="#12110f">Review monthly budget &amp; recurring subscriptions</text>
+  <text x="554" y="240" font-family="Arial,sans-serif" font-size="12" fill="#6f6b63">Repeats monthly · Auto-rule: log to Expenses when completed</text>
+  <rect x="1050" y="211" width="82" height="24" rx="4" fill="#eae5db"/>
+  <text x="1091" y="227" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="0.8" fill="#6f6b63">MONTHLY</text>
+
+  <!-- Task Row 3 (Completed) -->
+  <rect x="504" y="262" width="644" height="50" rx="6" fill="#efeae0" stroke="#dfdad0" stroke-width="1"/>
+  <rect x="522" y="278" width="18" height="18" rx="3" fill="#12110f"/>
+  <polyline points="526,287 530,291 537,282" fill="none" stroke="#f4f1ea" stroke-width="2"/>
+  <text x="554" y="292" font-family="Arial,sans-serif" font-size="14" text-decoration="line-through" fill="#6f6b63">Verify atomic JSON write &amp; weekly OneDrive backup sync</text>
+  <text x="1132" y="292" text-anchor="end" font-family="Consolas,monospace" font-size="11" fill="#6f6b63">+15 XP</text>
+
+  <!-- Bottom Strip: Module metrics -->
+  <rect x="504" y="326" width="204" height="58" rx="6" fill="#faf8f3" stroke="#dfdad0" stroke-width="1"/>
+  <text x="520" y="348" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.2" fill="#6f6b63">FOCUS TIMER</text>
+  <text x="520" y="372" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#12110f">25:00 · 4 sessions</text>
+
+  <rect x="724" y="326" width="204" height="58" rx="6" fill="#faf8f3" stroke="#dfdad0" stroke-width="1"/>
+  <text x="740" y="348" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.2" fill="#6f6b63">HABITS · 26W</text>
+  <text x="740" y="372" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#12110f">94% consistency</text>
+
+  <rect x="944" y="326" width="204" height="58" rx="6" fill="#faf8f3" stroke="#dfdad0" stroke-width="1"/>
+  <text x="960" y="348" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.2" fill="#6f6b63">STORAGE</text>
+  <text x="960" y="372" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#12110f">1 JSON file · Local</text>
+</svg>

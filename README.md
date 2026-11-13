@@ -19,6 +19,23 @@ From the first data model to the final interface.
 
 A few projects connecting thoughtful systems with useful experiences.
 
+### Vermil Tasks
+**One light Windows app for everyday life. Only the tools you switch on.**
+
+<a href="https://github.com/ParinTF/vermil-tasks"><img src="./assets/vermil-preview.svg" alt="Vermil Tasks — modular local-first Windows desktop app" width="100%" /></a>
+
+A modular, local-first desktop app for Windows that starts empty and loads only the modules you turn on. Built as a ~2 MB native app with no account, no cloud server, and everything stored safely on your computer.
+
+- **26 on-demand modules** across 5 packages (*Work, Money, Life, Plan, Smart*) — tasks, notes, calendar, Pomodoro focus timer, expenses, habits, goals, automations, and an opt-in Gemini assistant
+- **Keyboard-first workflow** with a `Ctrl+K` command palette, global Windows shortcuts (`Ctrl+Alt+T` / `N` / `W`), and an always-on-top Today widget
+- **Local-first & crash-safe** single-JSON storage with automatic weekly backups and shared-folder sync across machines
+
+**Rust · Tauri 2 · JavaScript · HTML/CSS · Windows**
+
+[Source code ↗](https://github.com/ParinTF/vermil-tasks) · [Download for Windows ↗](https://github.com/ParinTF/vermil-tasks/releases/latest)
+
+<br />
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -55,15 +72,6 @@ A full-stack resume builder with a live preview, four templates, customizable co
 </tr>
 </table>
 
-### NodeHop
-**More destinations. A clearer route.**
-
-SmartRoute, the app in NodeHop, compares travel distances and optimizes multi-stop routes using open data services. Search for places, drop pins, and compare distance and time for up to 50 destinations.
-
-**Next.js · TypeScript · MapLibre · OSRM**
-
-[Explore the source ↗](https://github.com/ParinTF/NodeHop)
-
 <br />
 
 ---
@@ -81,12 +89,12 @@ SmartRoute, the app in NodeHop, compares travel distances and optimizes multi-st
 
 I'm a full-stack developer who enjoys taking a project from its **data model and API to the interface people use**.
 
-I mostly work with **.NET, Go, and TypeScript**, backed by **MongoDB or PostgreSQL**. I'm interested in clean data models, backend architecture, and making useful products.
+I mostly work with **.NET, Go, Rust, and TypeScript**, backed by **MongoDB or PostgreSQL**. I'm interested in clean data models, backend architecture, and making useful products.
 
 ### My toolkit
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,go,ts,react,nextjs,mongodb,postgres,docker&perline=9" alt="C#, .NET, Go, TypeScript, React, Next.js, MongoDB, PostgreSQL, and Docker" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,rust,tauri,ts,react,nextjs,mongodb,postgres,docker&perline=11" alt="C#, .NET, Go, Rust, Tauri, TypeScript, React, Next.js, MongoDB, PostgreSQL, and Docker" />
 </p>
 
 ---
