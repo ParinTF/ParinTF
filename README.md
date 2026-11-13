@@ -1,75 +1,63 @@
-<div align="center">
-
-<img src="./assets/portfolio-editorial.svg" alt="Parinthorn Sutthikhun — Software Engineer. Ideas become useful software." width="100%" />
-
-<br />
-
-**Engineered from the ground up — clean data models, fast APIs, and sharp interfaces.**
-
-<br /><br />
-
-[**Explore my portfolio ↗**](https://parinthorn-portfolio.parinwork00.chatgpt.site) &nbsp; · &nbsp; [GitHub projects](https://github.com/ParinTF?tab=repositories) &nbsp; · &nbsp; [Say hello](mailto:xibomivi@gmail.com)
-
-</div>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/portfolio-mobile.svg" />
+  <img src="./assets/portfolio-editorial.svg" alt="Parinthorn Sutthikhun — Thoughtful code. Useful software." width="100%" />
+</picture>
 
 <br />
 
-## Less talk. More building.
+# Hi, I'm Parinthorn.
 
-A few projects connecting thoughtful systems with useful experiences.
+I'm a **software engineer** who enjoys building the whole thing — from the data model and API to the interface people use.
 
-### Vermil Tasks
-**One light Windows app for everyday life. Only the tools you switch on.**
+Clean architecture, considered details, and software that makes everyday life a little easier.
 
-<a href="https://github.com/ParinTF/vermil-tasks"><img src="./assets/vermil-preview.svg" alt="Vermil Tasks — modular local-first Windows desktop app" width="100%" /></a>
-
-A modular, local-first desktop app for Windows that starts empty and loads only the modules you turn on. Built as a ~2 MB native app with no account, no cloud server, and everything stored safely on your computer.
-
-- **26 on-demand modules** across 5 packages (*Work, Money, Life, Plan, Smart*) — tasks, notes, calendar, Pomodoro focus timer, expenses, habits, goals, automations, and an opt-in Gemini assistant
-- **Keyboard-first workflow** with a `Ctrl+K` command palette, global Windows shortcuts (`Ctrl+Alt+T` / `N` / `W`), and an always-on-top Today widget
-- **Local-first & crash-safe** single-JSON storage with automatic weekly backups and shared-folder sync across machines
-
-**Rust · Tauri 2 · JavaScript · HTML/CSS · Windows**
-
-[Source code ↗](https://github.com/ParinTF/vermil-tasks) · [Download for Windows ↗](https://github.com/ParinTF/vermil-tasks/releases/latest)
+[**Portfolio ↗**](https://parinthorn-portfolio.parinwork00.chatgpt.site) &nbsp; / &nbsp; [Email](mailto:xibomivi@gmail.com) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/parinthorn-sutthikhun-a402541b4)
 
 <br />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Selected work
 
-### Bonsai
-**Big goals. Small, steady steps.**
+### 01 / Vermil Tasks
 
-<a href="https://github.com/ParinTF/Bonsai"><img src="https://raw.githubusercontent.com/ParinTF/Bonsai/master/docs/screenshots/goal-graph.png" alt="Bonsai's interactive goal graph" width="100%" /></a>
+<a href="https://github.com/ParinTF/vermil-tasks">
+  <img src="./assets/vermil-preview.svg" alt="Vermil Tasks — a modular, local-first Windows app. Illustration of a focused workspace." width="100%" />
+</a>
 
-A hierarchical goal tracker with draggable goal graphs, daily habits, weekly commitments, and progress that rolls up automatically.
+**Small tools. One quiet workspace.** A local-first Windows app with on-demand modules for tasks, notes, focus, habits, and more. Start empty; switch on only what you need.
 
-**.NET · React · TypeScript · MongoDB**
+`Rust` `Tauri 2` `JavaScript` `HTML / CSS`
 
-[Source code ↗](https://github.com/ParinTF/Bonsai) · [Try the demo ↗](https://bonsai-dww.pages.dev)
+[Source ↗](https://github.com/ParinTF/vermil-tasks) &nbsp; · &nbsp; [Download for Windows ↗](https://github.com/ParinTF/vermil-tasks/releases/latest)
 
-</td>
-<td width="50%" valign="top">
+<br />
 
-### Curio
-**Your story. Your next chapter.**
+### 02 / Bonsai
 
-A full-stack resume builder with a live preview, four templates, customizable colors and fonts, PDF export, and public sharing.
+**Big goals. Small, steady steps.** A visual goal tracker that turns ambitions into a draggable graph of daily habits and weekly commitments, with progress that rolls up automatically.
 
-- Next.js interface with a real-time preview
-- Go REST API for all data reads and writes
-- PostgreSQL JSONB for flexible resume content
-- Supabase Auth with JWT verification
+`.NET` `React` `TypeScript` `MongoDB`
 
-**Next.js · Go · PostgreSQL · Supabase**
+[Source ↗](https://github.com/ParinTF/Bonsai) &nbsp; · &nbsp; [Live demo ↗](https://bonsai-dww.pages.dev)
 
-[Source code ↗](https://github.com/ParinTF/Curio) · [Try the demo ↗](https://curio-umber.vercel.app)
+<br />
 
-</td>
-</tr>
-</table>
+### 03 / Curio
+
+**Your story. Your next chapter.** A resume builder with a live preview, customizable templates, PDF export, and public sharing. A Next.js interface backed by a Go API.
+
+`Next.js` `Go` `PostgreSQL` `Supabase`
+
+[Source ↗](https://github.com/ParinTF/Curio) &nbsp; · &nbsp; [Live demo ↗](https://curio-umber.vercel.app)
+
+<br />
+
+## Behind the builds
+
+| Layer | Tools I work with |
+| :--- | :--- |
+| Backend | C# / .NET · Go · Rust |
+| Interfaces | TypeScript · React · Next.js · Tauri |
+| Data & delivery | PostgreSQL · MongoDB · Docker |
 
 <br />
 
@@ -77,31 +65,10 @@ A full-stack resume builder with a live preview, four templates, customizable co
 
 <div align="center">
 
-### Good software. A human touch.
+**Have something in mind? Let's build it.**
 
-<img src="https://parinthorn-portfolio.parinwork00.chatgpt.site/portrait.png" alt="Portrait of Parinthorn Sutthkhun" width="130" />
+[Say hello ↗](mailto:xibomivi@gmail.com) &nbsp; · &nbsp; [Explore my projects](https://github.com/ParinTF?tab=repositories)
 
-### Hi, I'm Parinthorn.
-**Software Engineer · @ParinTF**
-
-</div>
-
-I'm a full-stack developer who enjoys taking a project from its **data model and API to the interface people use**.
-
-I mostly work with **.NET, Go, Rust, and TypeScript**, backed by **MongoDB or PostgreSQL**. I'm interested in clean data models, backend architecture, and making useful products.
-
-### My toolkit
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,go,rust,tauri,ts,react,nextjs,mongodb,postgres,docker&perline=11" alt="C#, .NET, Go, Rust, Tauri, TypeScript, React, Next.js, MongoDB, PostgreSQL, and Docker" />
-</p>
-
----
-
-<div align="center">
-
-### Let's talk about what we can build.
-
-[Portfolio ↗](https://parinthorn-portfolio.parinwork00.chatgpt.site) &nbsp; · &nbsp; [Email](mailto:xibomivi@gmail.com) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/parinthorn-sutthikhun-a402541b4)
+<sub>Parinthorn Sutthikhun &nbsp; / &nbsp; @ParinTF</sub>
 
 </div>
